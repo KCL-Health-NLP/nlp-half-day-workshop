@@ -14,3 +14,5 @@
 - Supervised machine learning for text classification and information extraction (this will be very brief) 
 - Using NLP to extract information from health records – demonstration
 - A real-world use case – the Maudsley Biomedical Research Centre
+
+## [Workshop - agenda and contents](./workshop.md)
