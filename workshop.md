@@ -149,5 +149,5 @@ This is followed by a descriptin of an NLP service for mential health research, 
 
 All of the applications have been developed by researchers at [King's College London](https://www.kcl.ac.uk/) in collaboration with clinical and informatics colleagues at these hospitals.
 
-- [Presentation: some real world use cases](./presentations/use-cases.pptx)
+- [Presentation: some real world use cases](./presentations/use-cases.pdf)
 
