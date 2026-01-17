@@ -2,6 +2,4 @@ At start say want to explain two key ideas - representing, and classifying
 Add something on epi and records reuse to intro
 Also say something about clinical and audit uses
 Consider classification practical
-Demo - medicate, gate
-Maudsley presentation
-
+Example of NER as classification from Sumithra's slides

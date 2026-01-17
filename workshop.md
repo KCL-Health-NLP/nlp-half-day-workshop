@@ -122,5 +122,32 @@ In this practical, we will learn a model to assign medical specialties to health
 - [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/classification.ipynb)
 
 
-## Demos and real world use cases
+## Demo and real world use cases
 [[back to top]](#top)
+
+We will finish with a demonstration of a medical NLP tool, and a presentation of some real world uses cases.
+
+**Demonstration**
+
+In this very simple demonstration we will take a look at a medical concept extraction tool, [MedCAT](https://github.com/CogStack/cogstack-nlp/blob/main/medcat-v2/README.md). MedCAT finds mentions of medical concepts in text and "annotates" i.e. labels them. It also links them to external medical terminologies.
+
+The demo is a basic version of MedCAT using a publicly available model that links to a collection of medical terminologies curated by the USA National Library of Medicine, called the [Unified Medical Langusge System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html). This includes ICD 10, as you will see in the demo. If you create a UMLS account, you can browse the identifiers that MedCAT assigns.
+
+MedCAT is part of a larger health data extraction and transformation toolkit, [CogStack](https://github.com/CogStack/cogstack-nlp) whic is used by around 10 UK health service hospital services (NHS Trusts), and several others internationally. You can read more about MedCAT on the [website](https://github.com/CogStack/cogstack-nlp/blob/main/medcat-v2/README.md), and in this paper:
+
+[Kraljevic et al. Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotation Toolkit. Artif Intell Med. 2021 Jul;117:102083. doi: 10.1016/j.artmed.2021.102083. Epub 2021 May 1. PMID: 34127232.](https://doi.org/10.1016/j.artmed.2021.102083)
+
+
+- [Demonstration: MedCAT](https://medcat.sites.er.kcl.ac.uk/)
+
+
+**Presentation**
+
+This presentation gives just a few examples of NLP being developed and used at some London hospitals: [King's College Hospital](https://www.kch.nhs.uk/), [Guy's and St. Thomas'](https://www.guysandstthomas.nhs.uk/)
+
+This is followed by a descriptin of an NLP service for mential health research, developed at the UK's [National Institute for Health Research's Maudsley Biomedical research Centre](https://www.maudsleybrc.nihr.ac.uk/) which is  hosted by a large psychiatric service, [South London and Maudsley NHS Foundation Trust](https://slam.nhs.uk/)
+
+All of the applications have been developed by researchers at [King's College London](https://www.kcl.ac.uk/) in collaboration with clinical and informatics colleagues at these hospitals.
+
+- [Presentation: some real world use cases](./presentations/classification.pdf)
+
