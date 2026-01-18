@@ -1,5 +1,10 @@
-At start say want to explain two key ideas - representing, and classifying
-Add something on epi and records reuse to intro
-Also say something about clinical and audit uses
-Consider classification practical
-Example of NER as classification from Sumithra's slides
+in text:
+  check it all reads ok and works
+  Consider classification practical
+  integrate with original list of what doing and put on one page
+
+check practicals work
+
+slides:
+  pdf everything
+

@@ -67,6 +67,10 @@ If we want to manipulate and analyse language computationally, we first need to 
 - Can you think of any uses for this document representation?
 - Can you think of a way to represent words?
 
+**Presentation:** 
+This presentation introduces a simple  model of documents based on the ideas from the above practical, called *Bag-of-Words*
+- [Presentation: A simple model of documents: Bag-of-Words](./presentations/bag-of-words.pdf) 
+
 ## Representing words: vector semantics
 [[back to top]](#top)
 
