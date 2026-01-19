@@ -151,7 +151,7 @@ The demo is a basic version of MedCAT using a publicly available model that link
 
 MedCAT is part of a larger health data extraction and transformation toolkit, [CogStack](https://github.com/CogStack/cogstack-nlp) whic is used by around 10 UK health service hospital services (NHS Trusts), and several others internationally. You can read more about MedCAT on the [website](https://github.com/CogStack/cogstack-nlp/blob/main/medcat-v2/README.md), and in this paper:
 
-[Kraljevic et al. Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotation Toolkit. Artif Intell Med. 2021 Jul;117:102083. doi: 10.1016/j.artmed.2021.102083. Epub 2021 May 1. PMID: 34127232.](https://doi.org/10.1016/j.artmed.2021.102083)
+- *Kraljevic et al. Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotation Toolkit. Artif Intell Med. 2021 Jul;117:102083. doi: 10.1016/j.artmed.2021.102083. Epub 2021 May 1. PMID: 34127232. [https://doi.org/10.1016/j.artmed.2021.102083](https://doi.org/10.1016/j.artmed.2021.102083)*
 
 
 - [Demonstration: MedCAT](https://medcat.sites.er.kcl.ac.uk/)
