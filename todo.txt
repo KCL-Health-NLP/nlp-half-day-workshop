@@ -1,10 +1,27 @@
-in text:
-  check it all reads ok and works
-  Consider classification practical
-  integrate with original list of what doing and put on one page
+remove webcorp demo, rpelace with English Corpora demo
+run through everything and adjust
 
-check practicals work
 
-slides:
-  pdf everything
 
+
+Using English Corpora to get collocate counts
+
+  - From English Corpora main page https://www.english-corpora.org/
+
+  - iWeb is near the tob of the table of corpora
+
+  - click it
+
+  - if not already logged in, do so (person profile icon in menu)
+
+  - click search tab
+
+  - click word tab above search box
+
+  - enter a word in box
+
+  - click "see detailed info"
+
+  - on right hand side, click collocates
+
+  - this gives a list of collocates e.g. nouns
