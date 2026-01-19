@@ -15,7 +15,7 @@
 1. **Part 2 (1h15)**
     1. [Playing with word embeddings](#playing-with-word-embeddings)
     1. [Supervised machine learning and classification](#classification)
-    1. [Demos and real world use cases](#demos-and-real-world-use-cases)
+    1. [Demo and real world use cases](#demo-and-real-world-use-cases)
 
 ## Introduction
 [[back to top]](#top)
