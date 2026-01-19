@@ -96,7 +96,7 @@ You can use this spreadsheet with the Python notebook below to build and explore
 The simple word and document vectors we built above can be used in NLP and information retrieval applications, but they have a few shortcomings, and better distributional semantics solutions exist: **word embeddings**. Whereas the vectors we have looked at so far are high dimensional with integer values, word embeddings are much lower dimensional (maybe a few hundred dimensions), with real number values. The most popular of these is Google's [Word2Vec](https://www.tensorflow.org/text/tutorials/word2vec) and Stanford University's [GloVe](https://nlp.stanford.edu/projects/glove/). We will use both of these in the practical below.
 
 **Presentation:**
-This presentation gives a high level, intuitive overview of word embeddings. For more details, and information on how they are built, see the links above and Chapter 6 in [Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
+This presentation gives a high level, intuitive overview of word embeddings. For more details, and information on how they are built, see the links above and Chapter 5 in [Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [Presentation: word embeddings](./presentations/word-embeddings.pdf) 
 
 **Practical:**
