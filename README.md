@@ -1,5 +1,6 @@
 # Natural Language Processing (NLP) - an introduction<a name="top"/>
 **A half day workshop on NLP with a non-expert, health domain focus.**
+
 *Angus Roberts, King's College London Institute of Psychiatry, Psychology and Neuroscience*
 
 ---
@@ -67,7 +68,8 @@ If we want to manipulate and analyse language computationally, we first need to 
 - Can you think of any uses for this document representation?
 - Can you think of a way to represent words?
 
-**Presentation:** 
+**Presentation**
+
 This presentation introduces a simple  model of documents based on the ideas from the above practical, called *Bag-of-Words*
 - [Presentation: A simple model of documents: Bag-of-Words](./presentations/bag-of-words.pdf) 
 
@@ -76,13 +78,19 @@ This presentation introduces a simple  model of documents based on the ideas fro
 
 We've seen how to represent documents as vectors, but what about words themselves? 
 
-**Presentation:**  This presentation introduces the idea of *distributional semantics*
+**Presentation** 
+
+This presentation introduces the idea of *distributional semantics*
 - [Presentation: distributional semantics](./presentations/distributional-semantics.pdf) 
 
-**Demonstration:** We will demonstrate the idea of using a word's context to create a vector representation of that word by using a linguistic search engine, [WebCorp](https://www.webcorp.org.uk/). WebCorp allows us to find and list all contexts on the web in which a word appears, and to count the number of times other words appear next to it. We call these the the word's collocates).
+**Demonstration**
+
+We will demonstrate the idea of using a word's context to create a vector representation of that word by using a linguistic search engine, [WebCorp](https://www.webcorp.org.uk/). WebCorp allows us to find and list all contexts on the web in which a word appears, and to count the number of times other words appear next to it. We call these the the word's collocates).
 - [Demonstration: WebCorp](https://www.webcorp.org.uk/)
 
-**Practical:** This practical builds word vectors using data from the [iWeb corpus](https://www.english-corpora.org/iweb/): a corpus of 14 billion words in 22 million systematically selected English language web pages. This can be searched and analysed using the tools at [English-Corpora.org](https://www.english-corpora.org/). We have used these tools to look at a few words, and to find what other words appear in their context. In this case, we define context as being on the same web page. We have saved the context counts in a spreadsheet, which has one sheet for each of our words:
+**Practical**
+
+This practical builds word vectors using data from the [iWeb corpus](https://www.english-corpora.org/iweb/): a corpus of 14 billion words in 22 million systematically selected English language web pages. This can be searched and analysed using the tools at [English-Corpora.org](https://www.english-corpora.org/). We have used these tools to look at a few words, and to find what other words appear in their context. In this case, we define context as being on the same web page. We have saved the context counts in a spreadsheet, which has one sheet for each of our words:
 
 - [Data: word contexts](./practicals/contexts.xlsx) (click the "View raw" button to download, tnen open on your computer)
 
@@ -95,11 +103,13 @@ You can use this spreadsheet with the Python notebook below to build and explore
 
 The simple word and document vectors we built above can be used in NLP and information retrieval applications, but they have a few shortcomings, and better distributional semantics solutions exist: **word embeddings**. Whereas the vectors we have looked at so far are high dimensional with integer values, word embeddings are much lower dimensional (maybe a few hundred dimensions), with real number values. The most popular of these is Google's [Word2Vec](https://www.tensorflow.org/text/tutorials/word2vec) and Stanford University's [GloVe](https://nlp.stanford.edu/projects/glove/). We will use both of these in the practical below.
 
-**Presentation:**
+**Presentation**
+
 This presentation gives a high level, intuitive overview of word embeddings. For more details, and information on how they are built, see the links above and Chapter 5 in [Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [Presentation: word embeddings](./presentations/word-embeddings.pdf) 
 
-**Practical:**
+**Practical**
+
 In this practical, you will create a word embedding from a small corpus and test it. It won't be very good! Then you will load an embedding that has been pre-trained on a much bigger corpus, to see the difference this makes.
 
 - [Python notebook: word embeddings](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/embeddings.ipynb)
@@ -117,13 +127,15 @@ We will look at one of the most widely used tasks, classification, in which we b
 
 In each of these cases we can build a *supervised* model by providing training examples that have been pre-labelled with their classes (possibly by human labellers) to a classification algorithm. We can then apply this trained model to previously unseen texts, to predict the classes of those unseen texts.
 
-**Presentation:**
+**Presentation**
+
 In this presentation, we will outline the basic idea of supervised machine learning for NLP.
 - [Presentation: supervised machine learning for text classification](./presentations/classification.pdf) 
 
-**Practical:**
-In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
-- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/classification.ipynb)
+**Optional Demonstration Practical**
+
+We will do a demo of this practoical if there is time and interest. In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
+- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/classification-short.ipynb)
 
 
 ## Demo and real world use cases
