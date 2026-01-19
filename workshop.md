@@ -20,7 +20,7 @@
 ## Introduction
 [[back to top]](#top)
 
-- This repository contains all the material you will need for the NLP day on the Biostatistics and Health Informatics Youth Awards Programme
+- This repository contains all the material you will need for the NLP half day
 - The day will consist of six practicals to explore topics in NLP and neural networks
 - Each practical will be introduced by short presentations of around 5 minutes each
 
@@ -88,7 +88,7 @@ We've seen how to represent documents as vectors, but what about words themselve
 
 You can use this spreadsheet with the Python notebook below to build and explore some word vectors:
 
-- [Python notebook: vector semantics](https://githubtocolab.com/KCL-Health-NLP/nlp_youth_awards/blob/main/practicals/plot_contexts.ipynb)
+- [Python notebook: vector semantics](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/plot_contexts.ipynb)
 
 ## Playing with word embeddings
 [[back to top]](#top)
@@ -102,7 +102,7 @@ This presentation gives a high level, intuitive overview of word embeddings. For
 **Practical:**
 In this practical, you will create a word embedding from a small corpus and test it. It won't be very good! Then you will load an embedding that has been pre-trained on a much bigger corpus, to see the difference this makes.
 
-- [Python notebook: word embeddings](https://githubtocolab.com/KCL-Health-NLP/nlp_youth_awards/blob/main/practicals/embeddings.ipynb)
+- [Python notebook: word embeddings](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/embeddings.ipynb)
 
 ## Classification
 [[back to top]](#top)
@@ -123,7 +123,7 @@ In this presentation, we will outline the basic idea of supervised machine learn
 
 **Practical:**
 In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
-- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-one-day-workshop/blob/main/practicals/classification.ipynb)
+- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/classification.ipynb)
 
 
 ## Demo and real world use cases
