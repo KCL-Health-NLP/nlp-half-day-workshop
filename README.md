@@ -85,12 +85,12 @@ This presentation introduces the idea of *distributional semantics*
 
 **Demonstration**
 
-We will demonstrate the idea of using a word's context to create a vector representation of that word by using a linguistic search engine, [WebCorp](https://www.webcorp.org.uk/). WebCorp allows us to find and list all contexts on the web in which a word appears, and to count the number of times other words appear next to it. We call these the the word's collocates.
-- [Demonstration: WebCorp](https://www.webcorp.org.uk/)
+We will demonstrate the idea of using a word's context to create a vector representation of that word by using a linguistic search engine, [English-Corpora.org](https://www.english-corpora.org/). This allows us to find and list all contexts in which a word appears, and to count the number of times other words appear next to it. We call these the the word's collocates.
+- [Demonstration: English-Corpora.org](https://www.english-corpora.org/)
 
 **Practical**
 
-This practical builds word vectors using data from the [iWeb corpus](https://www.english-corpora.org/iweb/): a corpus of 14 billion words in 22 million systematically selected English language web pages. This can be searched and analysed using the tools at [English-Corpora.org](https://www.english-corpora.org/). We have used these tools to look at a few words, and to find what other words appear in their context. In this case, we define context as being on the same web page. We have saved the context counts in a spreadsheet, which has one sheet for each of our words:
+This practical builds word vectors using data from the [iWeb corpus](https://www.english-corpora.org/iweb/): a corpus of 14 billion words in 22 million systematically selected English language web pages. This can be searched and analysed using the tools at [English-Corpora.org](https://www.english-corpora.org/) that we looked at before. We have used these tools to look at a few words, and to find what other words appear in their context. In this case, we define context as being on the same web page. We have saved the context counts in a spreadsheet, which has one sheet for each of our words:
 
 - [Data: word contexts](./practicals/contexts.xlsx) (click the "View raw" button to download, tnen open on your computer)
 
