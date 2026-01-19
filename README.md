@@ -121,9 +121,9 @@ In each of these cases we can build a *supervised* model by providing training e
 In this presentation, we will outline the basic idea of supervised machine learning for NLP.
 - [Presentation: supervised machine learning for text classification](./presentations/classification.pdf) 
 
-**Practical:**
-In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
-- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/classification.ipynb)
+**Optional Demonstration Practical:**
+We will do a demo of this practoical if there is time and interest. In this practical, we will learn a model to assign medical specialties to health record documents. We will use texts from the publically available [MT Samples](https://mtsamples.com/) collection of medical transcriptions.
+- [Python notebook: classification](https://githubtocolab.com/KCL-Health-NLP/nlp-half-day-workshop/blob/main/practicals/classification-short.ipynb)
 
 
 ## Demo and real world use cases
