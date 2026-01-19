@@ -3,22 +3,19 @@
 *Angus Roberts, King's College London Institute of Psychiatry, Psychology and Neuroscience*
 
 
-## Part 1 (1h30)
-
-## Part 2 (1h15)
-
-
 
 ## Contents
 
-1. [Introduction](#introduction)
-- Motivation – why do we need NLP for health research and clinical care? 
-- What is NLP?
-1. [Representing language: documents](#representing-language-documents)
-1. [Representing words: vector semantics](#representing-words-vector-semantics)
-1. [Playing with word embeddings](#playing-with-word-embeddings)
-1. [Supervised machine learning and classification](#classification)
-1. [Demos and real world use cases](#demos-and-real-world-use-cases)
+1. Part 1 (1h30)
+    1. [Introduction](#introduction)
+        - Motivation – why do we need NLP for health research and clinical care? 
+        - What is NLP?
+    1. [Representing language: documents](#representing-language-documents)
+    1. [Representing words: vector semantics](#representing-words-vector-semantics)
+1. Part 2 (1h15)
+    1. [Playing with word embeddings](#playing-with-word-embeddings)
+    1. [Supervised machine learning and classification](#classification)
+    1. [Demos and real world use cases](#demos-and-real-world-use-cases)
 
 ## Introduction
 [[back to top]](#top)
