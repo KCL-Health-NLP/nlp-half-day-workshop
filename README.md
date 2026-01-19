@@ -2,7 +2,7 @@
 **A half day workshop on NLP with a non-expert, health domain focus.**
 *Angus Roberts, King's College London Institute of Psychiatry, Psychology and Neuroscience*
 
-
+---
 
 ## Contents
 
