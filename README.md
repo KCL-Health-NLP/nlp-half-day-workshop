@@ -154,7 +154,7 @@ MedCAT is part of a larger health data extraction and transformation toolkit, [C
 - *Kraljevic et al. Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotation Toolkit. Artif Intell Med. 2021 Jul;117:102083. doi: 10.1016/j.artmed.2021.102083. Epub 2021 May 1. PMID: 34127232. [https://doi.org/10.1016/j.artmed.2021.102083](https://doi.org/10.1016/j.artmed.2021.102083)*
 
 
-- [Demonstration: MedCAT](https://medcat.sites.er.kcl.ac.uk/)
+- [Demonstration: MedCAT](https://medcat.sites.er.kcl.ac.uk/) and linking concepts to [UMLS](https://uts.nlm.nih.gov/uts/umls/home)
 
 
 **Presentation**
